@@ -1,10 +1,9 @@
-<h1>Hi, I'm Arjun Jaikishore! </h1>
+<h1> Arjun Jaikishore </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Kioptrix Exploitation](https://github.com/arjunjaikishore/KioptrixExploitationLab)
   - [Eternal Blue Exploitation](https://github.com/arjunjaikishore/EternalBlueExploitation)
-
 
 
 <!--
