@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Kioptrix Exploitation](https://github.com/arjunjaikishore/KioptrixExploitationLab)
-  - [Eternal Blue Exploitation](https://github.com/arjunjaikishore/KioptrixExploitationLab)
+  - [Eternal Blue Exploitation](https://github.com/arjunjaikishore/EternalBlueExploitation)
 
 
 <h2>📺 Popular YouTube Videos</h2>
