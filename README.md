@@ -5,6 +5,10 @@
   - [Kioptrix Exploitation](https://github.com/arjunjaikishore/KioptrixExploitationLab)
   - [Eternal Blue Exploitation](https://github.com/arjunjaikishore/EternalBlueExploitation)
 
+<h2>👨‍💻 Programming Projects:</h2>
+
+  - [Kioptrix Exploitation](https://github.com/arjunjaikishore/KioptrixExploitationLab)
+  - [Eternal Blue Exploitation](https://github.com/arjunjaikishore/EternalBlueExploitation)
 
 <!--
 
