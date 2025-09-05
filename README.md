@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Kioptrix Exploitation](https://github.com/arjunjaikishore/KioptrixExploitationLab)
+  - [Eternal Blue Exploitation](https://github.com/arjunjaikishore/KioptrixExploitationLab)
 
 
 <h2>📺 Popular YouTube Videos</h2>
