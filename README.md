@@ -1,9 +1,13 @@
 <h1> Arjun Jaikishore </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Offensive Security Projects:</h2>
 
-  - [Kioptrix Exploitation](https://github.com/arjunjaikishore/KioptrixExploitationLab)
-  - [Eternal Blue Exploitation](https://github.com/arjunjaikishore/EternalBlueExploitation)
+  - [Security Operations Center (SOC) and SIEM Home Lab](https://github.com/arjunjaikishore/SOC-SIEM-AzureHomeLab)
+
+<h2>👨‍💻 Offensive Security Projects:</h2>
+
+  - [Kioptrix Level 1 Exploitation Project](https://github.com/arjunjaikishore/KioptrixExploitationLab)
+  - [Eternal Blue Exploitation Project](https://github.com/arjunjaikishore/EternalBlueExploitation)
 
 <!--
 
