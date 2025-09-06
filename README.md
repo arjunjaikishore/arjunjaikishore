@@ -1,6 +1,6 @@
 <h1> Arjun Jaikishore </h1>
 
-<h2>👨‍💻 Offensive Security Projects:</h2>
+<h2>👨‍💻 Defensive Security Projects:</h2>
 
   - [Security Operations Center (SOC) and SIEM Home Lab](https://github.com/arjunjaikishore/SOC-SIEM-AzureHomeLab)
 
