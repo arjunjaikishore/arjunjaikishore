@@ -6,8 +6,8 @@
 
 <h2>👨‍💻 Offensive Security Projects:</h2>
 
-  - [Kioptrix Level 1 Exploitation Project](https://github.com/arjunjaikishore/KioptrixExploitationLab)
-  - [Eternal Blue Exploitation Project](https://github.com/arjunjaikishore/EternalBlueExploitation)
+  - [Kioptrix Level 1 Exploitation Lab](https://github.com/arjunjaikishore/KioptrixExploitationLab)
+  - [Eternal Blue Exploitation Lab](https://github.com/arjunjaikishore/EternalBlueExploitation)
 
 <!--
 
