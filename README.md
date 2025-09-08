@@ -2,7 +2,7 @@
 
 <h2>🛡️ Defensive Security Projects:</h2>
 
-  - [Security Operations Center (SOC) and SIEM Home Lab](https://github.com/arjunjaikishore/SOC-SIEM-AzureHomeLab)
+  - [Security Operations Center and SIEM Home Lab](https://github.com/arjunjaikishore/SOC-SIEM-AzureHomeLab)
   - [Active Directory Home Lab](https://github.com/arjunjaikishore/ActiveDirectory-HomeLab)
 
 <h2>👨‍💻 Offensive Security Projects:</h2>
